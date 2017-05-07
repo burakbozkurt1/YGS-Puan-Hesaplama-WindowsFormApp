@@ -1,0 +1,18 @@
+C:\Users\BURAK BOZKURT\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\BURAK BOZKURT\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\BURAK BOZKURT\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\BURAK BOZKURT\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\BURAK BOZKURT\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\BURAK BOZKURT\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\PROJECT UPLOAD.csprojResolveAssemblyReference.cache
+C:\Users\BURAK BOZKURT\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\BURAK BOZKURT\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\BURAK BOZKURT\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\PROJECT UPLOAD.csproj.GenerateResource.Cache
+C:\Users\BURAK BOZKURT\Documents\Visual Studio 2015\Projects\Project Upload\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\BURAK BOZKURT\Documents\Visual Studio 2015\Projects\Project Upload\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\BURAK BOZKURT\Documents\Visual Studio 2015\Projects\Project Upload\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\BURAK BOZKURT\Documents\Visual Studio 2015\Projects\Project Upload\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\BURAK BOZKURT\Documents\Visual Studio 2015\Projects\Project Upload\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\BURAK BOZKURT\Documents\Visual Studio 2015\Projects\Project Upload\WindowsFormsApplication2\obj\Debug\PROJECT UPLOAD.csprojResolveAssemblyReference.cache
+C:\Users\BURAK BOZKURT\Documents\Visual Studio 2015\Projects\Project Upload\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\BURAK BOZKURT\Documents\Visual Studio 2015\Projects\Project Upload\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\BURAK BOZKURT\Documents\Visual Studio 2015\Projects\Project Upload\WindowsFormsApplication2\obj\Debug\PROJECT UPLOAD.csproj.GenerateResource.Cache
